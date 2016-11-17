@@ -1,2 +1,4 @@
 # facedoox
 autodox
+
+public Robot()
